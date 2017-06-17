@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/KNN.dir/main.cpp.o CMakeFiles/KNN.dir/Utility.cpp.o CMakeFiles/KNN.dir/Set.cpp.o  -o KNN 
