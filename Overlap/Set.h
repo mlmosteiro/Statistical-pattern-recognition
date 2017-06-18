@@ -18,7 +18,6 @@ private:
     int numItems;
     int numFeatures;
     vector <vector<vector<float>>> items;
-    vector <vector<float>> unclasifiedItems;
     vector <vector<float>> gravityCenters;
     vector <vector<vector<float>>> standardItems;
     vector <vector<float>> standardGravityCenters;
@@ -31,9 +30,11 @@ private:
 public:
     Set(){};
 
-    int getNumClasses() const;
+    int getNumItems() const;
 
     int getNumFeatures() const;
+
+    int getNumClasses() const;
 
     void setNumClasses(int numClasses);
 
@@ -43,43 +44,21 @@ public:
 
     void setItems(const vector<vector<vector<float>>> &items);
 
-    const vector<vector<float>> &getUnclasifiedItems() const;
-
-    void setUnclasifiedItems(const vector<vector<float>> &unclasifiedItems);
-
-    const vector<vector<float>> &getGravityCenters() const;
-
-    const vector<vector<float>> &getStandardGravityCenters() const;
-
-    const vector<vector<float>> &getWeights() const;
-
-    const vector<vector<float>> &getStandardWeights() const;
-
-    const vector<float> &getWeight_i() const;
-
     void resizeVectors();
-
-    void calculateGravityCenter();
 
     void calculateAverage();
 
     void calculateStandardDeviation();
 
-    void calculateStandardGravityCenter();
-
     void doStandardisation();
 
-    void calculateWeights();
+    void checkOverlap();
 
-    void calculateStandardWeights();
+    float calculateDistance(vector<float> x, vector<float> y);
 
-    void calculateWeight_i(vector<vector<float>> gravityCenters, vector<float> deviations, vector<float> average);
+    vector<float> setMaxMinDist();
 
-    void printConfussionMatrices();
-
-    const vector<vector<vector<float>>> &getStandardItems() const;
-
+    float minDistToSameClassObject(int idObject, int idClass);
 };
-
 
 #endif //LINEAR_SET_H

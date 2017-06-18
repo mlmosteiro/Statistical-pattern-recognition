@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug"/>
+				<Option working_dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Overlap/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug"/>
+				<Option working_dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Overlap/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug"/>
+				<Option working_dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Overlap/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Overlap">
-				<Option output="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Overlap" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug"/>
+				<Option output="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Overlap/cmake-build-debug/Overlap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Overlap/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -54,15 +54,15 @@
 					<Add directory="/usr/include/c++/5/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 Overlap"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 Overlap"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Overlap/fast">
-				<Option output="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Overlap" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug"/>
+				<Option output="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Overlap/cmake-build-debug/Overlap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Overlap/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -77,29 +77,29 @@
 					<Add directory="/usr/include/c++/5/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 Overlap/fast"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 Overlap/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/Overlap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/Set.cpp">
+		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Overlap/Set.cpp">
 			<Option target="Overlap"/>
 		</Unit>
-		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/Set.h">
+		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Overlap/Set.h">
 			<Option target="Overlap"/>
 		</Unit>
-		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/Utility.cpp">
+		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Overlap/Utility.cpp">
 			<Option target="Overlap"/>
 		</Unit>
-		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/Utility.h">
+		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Overlap/Utility.h">
 			<Option target="Overlap"/>
 		</Unit>
-		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/main.cpp">
+		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Overlap/main.cpp">
 			<Option target="Overlap"/>
 		</Unit>
-		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Overlap/CMakeLists.txt">
+		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Overlap/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
