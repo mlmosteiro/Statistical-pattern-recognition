@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/Set.cpp" "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/Linear.dir/Set.cpp.o"
-  "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/Utility.cpp" "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/Linear.dir/Utility.cpp.o"
-  "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/main.cpp" "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/Linear.dir/main.cpp.o"
+  "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/Set.cpp" "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/Linear.dir/Set.cpp.o"
+  "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/Utility.cpp" "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/Linear.dir/Utility.cpp.o"
+  "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/main.cpp" "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/Linear.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

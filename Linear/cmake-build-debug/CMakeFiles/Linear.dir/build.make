@@ -43,10 +43,10 @@ RM = /etc/clion-2016.3.4/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear"
+CMAKE_SOURCE_DIR = "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug"
+CMAKE_BINARY_DIR = "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Linear.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/Linear.dir/flags.make
 
 CMakeFiles/Linear.dir/main.cpp.o: CMakeFiles/Linear.dir/flags.make
 CMakeFiles/Linear.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Linear.dir/main.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Linear.dir/main.cpp.o -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Linear.dir/main.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Linear.dir/main.cpp.o -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/main.cpp"
 
 CMakeFiles/Linear.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Linear.dir/main.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/main.cpp" > CMakeFiles/Linear.dir/main.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/main.cpp" > CMakeFiles/Linear.dir/main.cpp.i
 
 CMakeFiles/Linear.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Linear.dir/main.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/main.cpp" -o CMakeFiles/Linear.dir/main.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/main.cpp" -o CMakeFiles/Linear.dir/main.cpp.s
 
 CMakeFiles/Linear.dir/main.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/Linear.dir/main.cpp.o.provides.build: CMakeFiles/Linear.dir/main.cpp.
 
 CMakeFiles/Linear.dir/Utility.cpp.o: CMakeFiles/Linear.dir/flags.make
 CMakeFiles/Linear.dir/Utility.cpp.o: ../Utility.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Linear.dir/Utility.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Linear.dir/Utility.cpp.o -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/Utility.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Linear.dir/Utility.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Linear.dir/Utility.cpp.o -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/Utility.cpp"
 
 CMakeFiles/Linear.dir/Utility.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Linear.dir/Utility.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/Utility.cpp" > CMakeFiles/Linear.dir/Utility.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/Utility.cpp" > CMakeFiles/Linear.dir/Utility.cpp.i
 
 CMakeFiles/Linear.dir/Utility.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Linear.dir/Utility.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/Utility.cpp" -o CMakeFiles/Linear.dir/Utility.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/Utility.cpp" -o CMakeFiles/Linear.dir/Utility.cpp.s
 
 CMakeFiles/Linear.dir/Utility.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/Linear.dir/Utility.cpp.o.provides.build: CMakeFiles/Linear.dir/Utilit
 
 CMakeFiles/Linear.dir/Set.cpp.o: CMakeFiles/Linear.dir/flags.make
 CMakeFiles/Linear.dir/Set.cpp.o: ../Set.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Linear.dir/Set.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Linear.dir/Set.cpp.o -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/Set.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Linear.dir/Set.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Linear.dir/Set.cpp.o -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/Set.cpp"
 
 CMakeFiles/Linear.dir/Set.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Linear.dir/Set.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/Set.cpp" > CMakeFiles/Linear.dir/Set.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/Set.cpp" > CMakeFiles/Linear.dir/Set.cpp.i
 
 CMakeFiles/Linear.dir/Set.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Linear.dir/Set.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/Set.cpp" -o CMakeFiles/Linear.dir/Set.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/Set.cpp" -o CMakeFiles/Linear.dir/Set.cpp.s
 
 CMakeFiles/Linear.dir/Set.cpp.o.requires:
 
@@ -143,7 +143,7 @@ Linear: CMakeFiles/Linear.dir/Utility.cpp.o
 Linear: CMakeFiles/Linear.dir/Set.cpp.o
 Linear: CMakeFiles/Linear.dir/build.make
 Linear: CMakeFiles/Linear.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Linear"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Linear"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Linear.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -162,6 +162,6 @@ CMakeFiles/Linear.dir/clean:
 .PHONY : CMakeFiles/Linear.dir/clean
 
 CMakeFiles/Linear.dir/depend:
-	cd "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear" "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear" "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug" "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug" "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/Linear.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear" "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear" "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug" "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug" "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/Linear.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Linear.dir/depend
 

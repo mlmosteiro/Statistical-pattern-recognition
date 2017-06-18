@@ -158,7 +158,6 @@ void Set::calculateStandardWeights() {
     calculateWeight_i(standardGravityCenters,standarDeviation,average);
 }
 
-//TODO: preguntar esto
 void Set::calculateWeights() {
     for (int noClass = 0; noClass < standardGravityCenters.size(); noClass++) {
         weights[noClass].resize(numFeatures);

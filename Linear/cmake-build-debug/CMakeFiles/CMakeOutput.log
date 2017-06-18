@@ -1,4 +1,4 @@
-The system is: Linux - 4.4.0-64-generic - x86_64
+The system is: Linux - 4.4.0-79-generic - x86_64
 Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
 Compiler: /usr/bin/cc 
 Build flags: 
@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/a.out"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /usr/bin/c++ 
@@ -23,33 +23,33 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is GNU, found in "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/a.out"
+The CXX compiler identification is GNU, found in "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_a8341/fast"
-/usr/bin/make -f CMakeFiles/cmTC_a8341.dir/build.make CMakeFiles/cmTC_a8341.dir/build
-make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_a8341.dir/testCCompiler.c.o
-/usr/bin/cc     -o CMakeFiles/cmTC_a8341.dir/testCCompiler.c.o   -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c"
-Linking C executable cmTC_a8341
-/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a8341.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_a8341.dir/testCCompiler.c.o  -o cmTC_a8341 
-make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_d05fc/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d05fc.dir/build.make CMakeFiles/cmTC_d05fc.dir/build
+make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d05fc.dir/testCCompiler.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_d05fc.dir/testCCompiler.c.o   -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c"
+Linking C executable cmTC_d05fc
+/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d05fc.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_d05fc.dir/testCCompiler.c.o  -o cmTC_d05fc 
+make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_b3f13/fast"
-/usr/bin/make -f CMakeFiles/cmTC_b3f13.dir/build.make CMakeFiles/cmTC_b3f13.dir/build
-make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_b3f13.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc     -o CMakeFiles/cmTC_b3f13.dir/CMakeCCompilerABI.c.o   -c /etc/clion-2016.3.4/bin/cmake/share/cmake-3.6/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_b3f13
-/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b3f13.dir/link.txt --verbose=1
-/usr/bin/cc      -v CMakeFiles/cmTC_b3f13.dir/CMakeCCompilerABI.c.o  -o cmTC_b3f13  
+Run Build Command:"/usr/bin/make" "cmTC_401d0/fast"
+/usr/bin/make -f CMakeFiles/cmTC_401d0.dir/build.make CMakeFiles/cmTC_401d0.dir/build
+make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_401d0.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_401d0.dir/CMakeCCompilerABI.c.o   -c /etc/clion-2016.3.4/bin/cmake/share/cmake-3.6/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_401d0
+/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_401d0.dir/link.txt --verbose=1
+/usr/bin/cc      -v CMakeFiles/cmTC_401d0.dir/CMakeCCompilerABI.c.o  -o cmTC_401d0  
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper
@@ -59,23 +59,23 @@ Thread model: posix
 gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b3f13' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccMN00t8.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_b3f13 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_b3f13.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
-make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_401d0' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/cckzvB2A.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_401d0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_401d0.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_b3f13/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_b3f13.dir/build.make CMakeFiles/cmTC_b3f13.dir/build]
-  ignore line: [make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_b3f13.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc     -o CMakeFiles/cmTC_b3f13.dir/CMakeCCompilerABI.c.o   -c /etc/clion-2016.3.4/bin/cmake/share/cmake-3.6/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_b3f13]
-  ignore line: [/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b3f13.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc      -v CMakeFiles/cmTC_b3f13.dir/CMakeCCompilerABI.c.o  -o cmTC_b3f13  ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_401d0/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_401d0.dir/build.make CMakeFiles/cmTC_401d0.dir/build]
+  ignore line: [make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_401d0.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc     -o CMakeFiles/cmTC_401d0.dir/CMakeCCompilerABI.c.o   -c /etc/clion-2016.3.4/bin/cmake/share/cmake-3.6/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_401d0]
+  ignore line: [/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_401d0.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc      -v CMakeFiles/cmTC_401d0.dir/CMakeCCompilerABI.c.o  -o cmTC_401d0  ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper]
@@ -85,13 +85,13 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.4) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b3f13' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccMN00t8.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_b3f13 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_b3f13.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_401d0' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/cckzvB2A.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_401d0 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_401d0.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccMN00t8.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/cckzvB2A.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -108,7 +108,7 @@ Parsed C implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_b3f13] ==> ignore
+    arg [cmTC_401d0] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o] ==> ignore
@@ -120,7 +120,7 @@ Parsed C implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/5/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/5/../../..]
-    arg [CMakeFiles/cmTC_b3f13.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_401d0.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--as-needed] ==> ignore
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -152,17 +152,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_7eef2/fast"
-/usr/bin/make -f CMakeFiles/cmTC_7eef2.dir/build.make CMakeFiles/cmTC_7eef2.dir/build
-make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_7eef2.dir/feature_tests.c.o
-/usr/bin/cc    -std=c11 -o CMakeFiles/cmTC_7eef2.dir/feature_tests.c.o   -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/feature_tests.c"
-Linking C executable cmTC_7eef2
-/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7eef2.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_7eef2.dir/feature_tests.c.o  -o cmTC_7eef2 
-make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_b7e11/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b7e11.dir/build.make CMakeFiles/cmTC_b7e11.dir/build
+make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b7e11.dir/feature_tests.c.o
+/usr/bin/cc    -std=c11 -o CMakeFiles/cmTC_b7e11.dir/feature_tests.c.o   -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/feature_tests.c"
+Linking C executable cmTC_b7e11
+/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b7e11.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_b7e11.dir/feature_tests.c.o  -o cmTC_b7e11 
+make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -172,17 +172,17 @@ make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documen
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_73398/fast"
-/usr/bin/make -f CMakeFiles/cmTC_73398.dir/build.make CMakeFiles/cmTC_73398.dir/build
-make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_73398.dir/feature_tests.c.o
-/usr/bin/cc    -std=c99 -o CMakeFiles/cmTC_73398.dir/feature_tests.c.o   -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/feature_tests.c"
-Linking C executable cmTC_73398
-/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_73398.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_73398.dir/feature_tests.c.o  -o cmTC_73398 
-make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_7fec0/fast"
+/usr/bin/make -f CMakeFiles/cmTC_7fec0.dir/build.make CMakeFiles/cmTC_7fec0.dir/build
+make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7fec0.dir/feature_tests.c.o
+/usr/bin/cc    -std=c99 -o CMakeFiles/cmTC_7fec0.dir/feature_tests.c.o   -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/feature_tests.c"
+Linking C executable cmTC_7fec0
+/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7fec0.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_7fec0.dir/feature_tests.c.o  -o cmTC_7fec0 
+make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -192,17 +192,17 @@ make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documen
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_f86d6/fast"
-/usr/bin/make -f CMakeFiles/cmTC_f86d6.dir/build.make CMakeFiles/cmTC_f86d6.dir/build
-make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_f86d6.dir/feature_tests.c.o
-/usr/bin/cc    -std=c90 -o CMakeFiles/cmTC_f86d6.dir/feature_tests.c.o   -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/feature_tests.c"
-Linking C executable cmTC_f86d6
-/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f86d6.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_f86d6.dir/feature_tests.c.o  -o cmTC_f86d6 
-make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_32ef8/fast"
+/usr/bin/make -f CMakeFiles/cmTC_32ef8.dir/build.make CMakeFiles/cmTC_32ef8.dir/build
+make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_32ef8.dir/feature_tests.c.o
+/usr/bin/cc    -std=c90 -o CMakeFiles/cmTC_32ef8.dir/feature_tests.c.o   -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/feature_tests.c"
+Linking C executable cmTC_32ef8
+/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_32ef8.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_32ef8.dir/feature_tests.c.o  -o cmTC_32ef8 
+make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -210,30 +210,30 @@ make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documen
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_c6c55/fast"
-/usr/bin/make -f CMakeFiles/cmTC_c6c55.dir/build.make CMakeFiles/cmTC_c6c55.dir/build
-make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_c6c55.dir/testCXXCompiler.cxx.o
-/usr/bin/c++      -o CMakeFiles/cmTC_c6c55.dir/testCXXCompiler.cxx.o -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx"
-Linking CXX executable cmTC_c6c55
-/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c6c55.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTC_c6c55.dir/testCXXCompiler.cxx.o  -o cmTC_c6c55 
-make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_ede74/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ede74.dir/build.make CMakeFiles/cmTC_ede74.dir/build
+make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ede74.dir/testCXXCompiler.cxx.o
+/usr/bin/c++      -o CMakeFiles/cmTC_ede74.dir/testCXXCompiler.cxx.o -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx"
+Linking CXX executable cmTC_ede74
+/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ede74.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_ede74.dir/testCXXCompiler.cxx.o  -o cmTC_ede74 
+make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_3f4b7/fast"
-/usr/bin/make -f CMakeFiles/cmTC_3f4b7.dir/build.make CMakeFiles/cmTC_3f4b7.dir/build
-make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_3f4b7.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/c++      -o CMakeFiles/cmTC_3f4b7.dir/CMakeCXXCompilerABI.cpp.o -c /etc/clion-2016.3.4/bin/cmake/share/cmake-3.6/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_3f4b7
-/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3f4b7.dir/link.txt --verbose=1
-/usr/bin/c++       -v CMakeFiles/cmTC_3f4b7.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_3f4b7  
+Run Build Command:"/usr/bin/make" "cmTC_ed855/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ed855.dir/build.make CMakeFiles/cmTC_ed855.dir/build
+make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ed855.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++      -o CMakeFiles/cmTC_ed855.dir/CMakeCXXCompilerABI.cpp.o -c /etc/clion-2016.3.4/bin/cmake/share/cmake-3.6/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_ed855
+/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ed855.dir/link.txt --verbose=1
+/usr/bin/c++       -v CMakeFiles/cmTC_ed855.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_ed855  
 Using built-in specs.
 COLLECT_GCC=/usr/bin/c++
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper
@@ -243,23 +243,23 @@ Thread model: posix
 gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3f4b7' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccCA0GoH.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_3f4b7 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_3f4b7.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
-make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ed855' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccA065DN.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_ed855 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_ed855.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_3f4b7/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_3f4b7.dir/build.make CMakeFiles/cmTC_3f4b7.dir/build]
-  ignore line: [make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_3f4b7.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/c++      -o CMakeFiles/cmTC_3f4b7.dir/CMakeCXXCompilerABI.cpp.o -c /etc/clion-2016.3.4/bin/cmake/share/cmake-3.6/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_3f4b7]
-  ignore line: [/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3f4b7.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/c++       -v CMakeFiles/cmTC_3f4b7.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_3f4b7  ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_ed855/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_ed855.dir/build.make CMakeFiles/cmTC_ed855.dir/build]
+  ignore line: [make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_ed855.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++      -o CMakeFiles/cmTC_ed855.dir/CMakeCXXCompilerABI.cpp.o -c /etc/clion-2016.3.4/bin/cmake/share/cmake-3.6/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_ed855]
+  ignore line: [/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ed855.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++       -v CMakeFiles/cmTC_ed855.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_ed855  ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper]
@@ -269,13 +269,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.4) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3f4b7' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccCA0GoH.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_3f4b7 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_3f4b7.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ed855' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccA065DN.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_ed855 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_ed855.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccCA0GoH.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccA065DN.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -292,7 +292,7 @@ Parsed CXX implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_3f4b7] ==> ignore
+    arg [cmTC_ed855] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o] ==> ignore
@@ -304,7 +304,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/5/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/5/../../..]
-    arg [CMakeFiles/cmTC_3f4b7.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_ed855.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -334,17 +334,17 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_f1d18/fast"
-/usr/bin/make -f CMakeFiles/cmTC_f1d18.dir/build.make CMakeFiles/cmTC_f1d18.dir/build
-make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_f1d18.dir/feature_tests.cxx.o
-/usr/bin/c++     -std=c++14 -o CMakeFiles/cmTC_f1d18.dir/feature_tests.cxx.o -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/feature_tests.cxx"
-Linking CXX executable cmTC_f1d18
-/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f1d18.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTC_f1d18.dir/feature_tests.cxx.o  -o cmTC_f1d18 
-make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_1d19f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1d19f.dir/build.make CMakeFiles/cmTC_1d19f.dir/build
+make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_1d19f.dir/feature_tests.cxx.o
+/usr/bin/c++     -std=c++14 -o CMakeFiles/cmTC_1d19f.dir/feature_tests.cxx.o -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/feature_tests.cxx"
+Linking CXX executable cmTC_1d19f
+/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1d19f.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_1d19f.dir/feature_tests.cxx.o  -o cmTC_1d19f 
+make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -407,17 +407,17 @@ make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documen
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_29dac/fast"
-/usr/bin/make -f CMakeFiles/cmTC_29dac.dir/build.make CMakeFiles/cmTC_29dac.dir/build
-make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_29dac.dir/feature_tests.cxx.o
-/usr/bin/c++     -std=c++11 -o CMakeFiles/cmTC_29dac.dir/feature_tests.cxx.o -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/feature_tests.cxx"
-Linking CXX executable cmTC_29dac
-/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_29dac.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTC_29dac.dir/feature_tests.cxx.o  -o cmTC_29dac 
-make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_ec292/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ec292.dir/build.make CMakeFiles/cmTC_ec292.dir/build
+make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ec292.dir/feature_tests.cxx.o
+/usr/bin/c++     -std=c++11 -o CMakeFiles/cmTC_ec292.dir/feature_tests.cxx.o -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/feature_tests.cxx"
+Linking CXX executable cmTC_ec292
+/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ec292.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_ec292.dir/feature_tests.cxx.o  -o cmTC_ec292 
+make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -480,17 +480,17 @@ make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documen
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_01e62/fast"
-/usr/bin/make -f CMakeFiles/cmTC_01e62.dir/build.make CMakeFiles/cmTC_01e62.dir/build
-make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_01e62.dir/feature_tests.cxx.o
-/usr/bin/c++     -std=c++98 -o CMakeFiles/cmTC_01e62.dir/feature_tests.cxx.o -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/feature_tests.cxx"
-Linking CXX executable cmTC_01e62
-/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_01e62.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTC_01e62.dir/feature_tests.cxx.o  -o cmTC_01e62 
-make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_c1dce/fast"
+/usr/bin/make -f CMakeFiles/cmTC_c1dce.dir/build.make CMakeFiles/cmTC_c1dce.dir/build
+make[1]: se entra en el directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_c1dce.dir/feature_tests.cxx.o
+/usr/bin/c++     -std=c++98 -o CMakeFiles/cmTC_c1dce.dir/feature_tests.cxx.o -c "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/feature_tests.cxx"
+Linking CXX executable cmTC_c1dce
+/etc/clion-2016.3.4/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c1dce.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_c1dce.dir/feature_tests.cxx.o  -o cmTC_c1dce 
+make[1]: se sale del directorio '/media/mary_mosteiro/Acer/Users/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers

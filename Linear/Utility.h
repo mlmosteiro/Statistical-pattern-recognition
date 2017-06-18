@@ -30,8 +30,6 @@ public:
 
     Set readTestFile();
 
-    void print1DVector(vector<float>v);
-
     void print2DVector(vector<vector<float>>v);
 
     int getIndexMax(vector<float> v);
@@ -39,8 +37,6 @@ public:
     int classifyNewItem(vector<float> item, Set set);
 
     virtual ~Utility();
-
-    const string &getOutFileString() const;
 
 };
 

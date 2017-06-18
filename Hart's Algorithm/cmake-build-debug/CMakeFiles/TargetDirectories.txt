@@ -1,3 +1,3 @@
-/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/edit_cache.dir
-/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/Linear/cmake-build-debug/CMakeFiles/Linear.dir
+/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear (copia)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear (copia)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear (copia)/cmake-build-debug/CMakeFiles/Linear.dir

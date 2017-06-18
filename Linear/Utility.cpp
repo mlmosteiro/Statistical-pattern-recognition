@@ -95,19 +95,12 @@ Set Utility::readTestFile() {
 
 }
 
-void Utility::print1DVector(vector<float>v){
-    for(int i = 0; i<v.size(); ++i){
-            out<<v[i]<<"\t ";
-        }
-    out<< endl;
-}
-
 void Utility::print2DVector(vector<vector<float>>v){
     for(int i = 0; i<v.size(); ++i){
         for(int j = 0; j<v[i].size(); j++){
-            out<<setprecision(5) <<setw(12) << left<<v[i][j];
+            cout<<setprecision(5) <<setw(12) << left<<v[i][j];
         }
-        out<< endl;
+        cout<< endl;
     }
 }
 
@@ -139,11 +132,7 @@ int Utility::classifyNewItem(vector<float> item, Set trainSet){
 }
 
 void Utility::outln(string s){
-    out<<s<<endl;
-}
-
-const string &Utility::getOutFileString() const {
-    return outFileString;
+    cout<<s<<endl;
 }
 
 Utility::~Utility() {

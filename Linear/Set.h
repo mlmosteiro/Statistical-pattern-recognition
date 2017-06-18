@@ -74,9 +74,6 @@ public:
     void calculateStandardWeights();
 
     void calculateWeight_i(vector<vector<float>> gravityCenters, vector<float> deviations, vector<float> average);
-
-    void printConfussionMatrices();
-
 };
 
 
