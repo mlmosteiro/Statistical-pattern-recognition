@@ -1,21 +1,5 @@
 #include "Utility.h"
 
-/*
- * 1. Find gravity centers before standardisation
- * 2. Find gravity centers after standardisation
- * 3. Weights without standardisation
- * 4. Weights with standardisation
- * 5. Clasificate items
- * 6. Error rate
- * 7. Confussion matrix R, P & Q
- */
-
-/*TODO:
- * - Entrada de archivos por argumento
- * - Salida en archivo
- * */
-
-
 vector<vector<float>> getMatrixP( vector<vector<float>>& matrixR){
     vector<vector<float>> matrixP (3, vector<float> (3,0));
     vector<float> m(3,0);
@@ -58,27 +42,26 @@ Set train(Utility& utility){
 
     trainSet.calculateStandardDeviation();
 
-    utility.outln("Gravity centers: ");
+    cout<<"Gravity centers: "<<endl;
     trainSet.calculateGravityCenter();
     utility.print2DVector(trainSet.getGravityCenters());
 
-    utility.outln("\nGravity centers after standardistarion: ");
+    cout<<"\nGravity centers after standardistarion: "<<endl;
     trainSet.doStandardisation();
     trainSet.calculateStandardGravityCenter();
     utility.print2DVector(trainSet.getStandardGravityCenters());
 
-    utility.outln("\nWeights: ");
+    cout<<"\nWeights: "<<endl;
     trainSet.calculateWeights();
     utility.print2DVector(trainSet.getWeights());
 
 
-    utility.outln("\nStandard weights: ");
+    cout<<"\nStandard weights: "<<endl;
     trainSet.calculateStandardWeights();
     utility.print2DVector(trainSet.getStandardWeights());
 
     return trainSet;
 }
-
 
 int main (int argc, char *argv[]) {
     if(argc<3){
@@ -95,7 +78,7 @@ int main (int argc, char *argv[]) {
     Set testSet = utility.readTestFile ();
     vector<vector<float>>unClasItems = testSet.getUnclasifiedItems();
 
-
+    cout << endl<< setw(10) << left << "NoItem" << setw(10) << left << "RClass" << setw(10) << left <<"IClass"<<endl;
     for(int unclasItem = 0; unclasItem<unClasItems.size();++unclasItem){
         int itemClass = utility.classifyNewItem(unClasItems[unclasItem],trainSet,3);
         int realClass =  (int)unClasItems[unclasItem].back();

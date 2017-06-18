@@ -33,8 +33,6 @@ public:
 
     int getNumClasses() const;
 
-    int getNumFeatures() const;
-
     void setNumClasses(int numClasses);
 
     void setNumItems(int numItems);
@@ -55,8 +53,6 @@ public:
 
     const vector<vector<float>> &getStandardWeights() const;
 
-    const vector<float> &getWeight_i() const;
-
     void resizeVectors();
 
     void calculateGravityCenter();
@@ -75,12 +71,7 @@ public:
 
     void calculateWeight_i(vector<vector<float>> gravityCenters, vector<float> deviations, vector<float> average);
 
-    void printConfussionMatrices();
-
     const vector<vector<vector<float>>> &getStandardItems() const;
-
-
-    vector<vector<vector<float>>> doStandardisationToItem(vector<vector<vector<float>>> item);
 
     vector<float> doStandardisationToItem(vector<float> item);
 };

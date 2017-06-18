@@ -9,10 +9,6 @@ int Set::getNumClasses() const {
     return numClasses;
 }
 
-int Set::getNumFeatures() const {
-    return numFeatures;
-}
-
 void Set::setNumClasses(int numClasses) {
     Set::numClasses = numClasses;
 }
@@ -51,10 +47,6 @@ const vector<vector<float>> &Set::getWeights() const {
 
 const vector<vector<float>> &Set::getStandardWeights() const {
     return standardWeights;
-}
-
-const vector<float> &Set::getWeight_i() const {
-    return weight_i;
 }
 
 void Set::resizeVectors() {
@@ -168,7 +160,6 @@ void Set::calculateStandardWeights() {
     calculateWeight_i(standardGravityCenters,standarDeviation,average);
 }
 
-//TODO: preguntar esto
 void Set::calculateWeights() {
     for (int noClass = 0; noClass < standardGravityCenters.size(); noClass++) {
         weights[noClass].resize(numFeatures);

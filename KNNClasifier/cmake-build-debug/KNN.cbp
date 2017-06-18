@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug"/>
+				<Option working_dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/KNNClasifier/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug"/>
+				<Option working_dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/KNNClasifier/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug"/>
+				<Option working_dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/KNNClasifier/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="KNN">
-				<Option output="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/KNN" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug"/>
+				<Option output="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/KNNClasifier/cmake-build-debug/KNN" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/KNNClasifier/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -54,15 +54,15 @@
 					<Add directory="/usr/include/c++/5/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 KNN"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 KNN"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="KNN/fast">
-				<Option output="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/KNN" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug"/>
+				<Option output="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/KNNClasifier/cmake-build-debug/KNN" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/KNNClasifier/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -77,29 +77,29 @@
 					<Add directory="/usr/include/c++/5/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 KNN/fast"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 KNN/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/media/mary_mosteiro/Acer/Documents\ and\ Settings/MaryLuz/Documents/Informatica/Tercero/Statistical\ pattern\ recognition/Statistical\ pattern\ recognition/KNNClasifier/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/Set.cpp">
+		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/KNNClasifier/Set.cpp">
 			<Option target="KNN"/>
 		</Unit>
-		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/Set.h">
+		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/KNNClasifier/Set.h">
 			<Option target="KNN"/>
 		</Unit>
-		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/Utility.cpp">
+		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/KNNClasifier/Utility.cpp">
 			<Option target="KNN"/>
 		</Unit>
-		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/Utility.h">
+		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/KNNClasifier/Utility.h">
 			<Option target="KNN"/>
 		</Unit>
-		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/main.cpp">
+		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/KNNClasifier/main.cpp">
 			<Option target="KNN"/>
 		</Unit>
-		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/CMakeLists.txt">
+		<Unit filename="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/KNNClasifier/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

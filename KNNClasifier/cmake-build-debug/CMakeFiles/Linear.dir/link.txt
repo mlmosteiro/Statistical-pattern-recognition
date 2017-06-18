@@ -1,1 +1,0 @@
-/usr/bin/c++   -g   CMakeFiles/Linear.dir/main.cpp.o CMakeFiles/Linear.dir/Utility.cpp.o CMakeFiles/Linear.dir/Set.cpp.o  -o Linear 

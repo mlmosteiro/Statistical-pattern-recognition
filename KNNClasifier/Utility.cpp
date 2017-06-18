@@ -95,13 +95,6 @@ Set Utility::readTestFile() {
 
 }
 
-void Utility::print1DVector(vector<float>v){
-    for(int i = 0; i<v.size(); ++i){
-            out<<v[i]<<"\t ";
-        }
-    out<< endl;
-}
-
 void Utility::print2DVector(vector<vector<float>>v){
     for(int i = 0; i<v.size(); ++i){
         for(int j = 0; j<v[i].size(); j++){
@@ -172,10 +165,6 @@ int Utility::classifyNewItem(vector<float> item, Set trainSet, int kNN){
 
 void Utility::outln(string s){
     out<<s<<endl;
-}
-
-const string &Utility::getOutFileString() const {
-    return outFileString;
 }
 
 Utility::~Utility() {

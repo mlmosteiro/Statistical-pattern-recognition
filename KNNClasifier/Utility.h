@@ -30,13 +30,9 @@ public:
 
     Set readTestFile();
 
-    void print1DVector(vector<float>v);
-
     void print2DVector(vector<vector<float>>v);
 
     virtual ~Utility();
-
-    const string &getOutFileString() const;
 
     int getIndexMax(vector<int> v);
 

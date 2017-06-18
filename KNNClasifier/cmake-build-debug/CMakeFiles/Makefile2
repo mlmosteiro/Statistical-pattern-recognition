@@ -54,10 +54,10 @@ RM = /etc/clion-2016.3.4/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier"
+CMAKE_SOURCE_DIR = "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/KNNClasifier"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug"
+CMAKE_BINARY_DIR = "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/KNNClasifier/cmake-build-debug"
 
 #=============================================================================
 # Target rules for target CMakeFiles/KNN.dir
@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Doc
 CMakeFiles/KNN.dir/all:
 	$(MAKE) -f CMakeFiles/KNN.dir/build.make CMakeFiles/KNN.dir/depend
 	$(MAKE) -f CMakeFiles/KNN.dir/build.make CMakeFiles/KNN.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/CMakeFiles" --progress-num=1,2,3,4 "Built target KNN"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/KNNClasifier/cmake-build-debug/CMakeFiles" --progress-num=1,2,3,4 "Built target KNN"
 .PHONY : CMakeFiles/KNN.dir/all
 
 # Include target in all.
@@ -76,9 +76,9 @@ all: CMakeFiles/KNN.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/KNN.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/CMakeFiles" 4
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/KNNClasifier/cmake-build-debug/CMakeFiles" 4
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/KNN.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Sttatistical/KNNClasifier/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/KNNClasifier/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/KNN.dir/rule
 
 # Convenience name for target.
