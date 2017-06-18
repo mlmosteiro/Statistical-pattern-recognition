@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear (copia)/Set.cpp
+Set.h
+/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear (copia)/Set.h
+Utility.h
+/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear (copia)/Utility.h
+
+/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear (copia)/Set.h
+iostream
+-
+vector
+-
+algorithm
+-
+
+/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear (copia)/Utility.cpp
+Utility.h
+/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear (copia)/Utility.h
+
+/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear (copia)/Utility.h
+fstream
+-
+Set.h
+/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear (copia)/Set.h
+iomanip
+-
+
+/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear (copia)/main.cpp
+Utility.h
+/media/mary_mosteiro/Acer/Documents and Settings/MaryLuz/Documents/Informatica/Tercero/Statistical pattern recognition/Statistical pattern recognition/Linear (copia)/Utility.h
+
