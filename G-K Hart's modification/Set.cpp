@@ -101,21 +101,6 @@ vector<float>  Set::doStandardisationToItem(vector<float> item) {
     return  standardItems;
 }
 
-void Set::calculateWeight_i(vector<vector<float>> gravityCenters, vector<float> deviations, vector<float> average){
-    vector<float> secondTerm (numClasses,0);
-
-    for(int noClass=0; noClass<numClasses; ++noClass){
-        for(int noFeature = 0; noFeature<numFeatures; ++noFeature){
-            weight_i[noClass] += 2*gravityCenters[noClass][noFeature]*average[noFeature] / deviations[noFeature];
-            secondTerm[noClass] += gravityCenters[noClass][noFeature] * gravityCenters[noClass][noFeature];
-        }
-    }
-
-    for(int noClass=0; noClass<numClasses; ++noClass){
-        weight_i[noClass] += secondTerm[noClass];
-    }
-}
-
 float Set::calculateDistance(vector<float> x, vector<float> y){
     vector<float> tmp (x.size(),0);
     float distance = 0;

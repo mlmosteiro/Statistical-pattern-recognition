@@ -103,6 +103,17 @@ void Utility::print2DVector(vector<vector<float>>v){
     }
 }
 
+class PairCompare {
+private:
+    vector<float> item;
+public:
+    PairCompare(vector<float> p) : item(p){}
+
+    bool operator()(const pair<vector<float>,int> &p1, const pair<vector<float>,int> &p2) {
+        return Utility::calculateDistance(p1.first, item) < Utility::calculateDistance(p2.first, item);
+    }
+};
+
 int Utility::classifyNewItem(vector<float> item, Set trainSet){
     vector<pair<float,int>> distances; //Value, Class
     vector<float> standardItem = trainSet.doStandardisationToItem(item);
@@ -134,16 +145,6 @@ float Utility::calculateDistance(vector<float> x, vector<float> y) {
         return sqrt(distance);
 }
 
-class PairCompare {
-private:
-    vector<float> item;
-public:
-    PairCompare(vector<float> p) : item(p){}
-
-    bool operator()(const pair<vector<float>,int> &p1, const pair<vector<float>,int> &p2) {
-        return Utility::calculateDistance(p1.first, item) < Utility::calculateDistance(p2.first, item);
-    }
-};
 
 
 

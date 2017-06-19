@@ -61,7 +61,7 @@ int main (int argc, char *argv[]) {
     Set testSet = utility.readTestFile ();
     vector<vector<float>>unClasItems = testSet.getUnclasifiedItems();
 
-
+    cout << endl<< setw(10) << left << "NoItem" << setw(10) << left << "RClass" << setw(10) << left <<"IClass"<<endl;
     for(int unclasItem = 0; unclasItem<unClasItems.size();++unclasItem){
         int itemClass = utility.classifyNewItem(unClasItems[unclasItem],trainSet);
         int realClass =  (int)unClasItems[unclasItem].back();
